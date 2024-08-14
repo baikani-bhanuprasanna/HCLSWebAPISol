@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HCLSWebApi", "HCLSWebApi\HCLSWebApi.csproj", "{4BB47AEF-B83E-4EBC-9E3A-1A4E76FE3E22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BB47AEF-B83E-4EBC-9E3A-1A4E76FE3E22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BB47AEF-B83E-4EBC-9E3A-1A4E76FE3E22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BB47AEF-B83E-4EBC-9E3A-1A4E76FE3E22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BB47AEF-B83E-4EBC-9E3A-1A4E76FE3E22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7803014D-AF23-4FC8-8742-18FCCFEF5AC2}
+	EndGlobalSection
+EndGlobal
